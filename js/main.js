@@ -1,5 +1,5 @@
 function sidicequesi(){
-    alert("Sabía que dirías que sí, no tenías otra opción, de todas maneras Te amo <3");
+        alert("SabÃ­a que dirÃ­as que sÃ­, no tenÃ­as otra opciÃ³n, de todas maneras Te amo <3");
 }
 
 function quetoquelboton(){
