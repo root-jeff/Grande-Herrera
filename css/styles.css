@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor{
+    width: 100%;
+    max-width: 1200px;
+    overflow: hidden;
+    margin: auto;
+    padding: 60px 0;
+}
+
+.header{
+    height: 100vh;
+    /* 02 */
+    background-image: linear-gradient(to top, rgba(132, 250, 175, 0.637) 0%, hsla(200, 82%, 76%, 0.438) 100%), url(img/herrera.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.head{
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+}
+
+.titulo{
+    font-size: 60px;
+    margin-bottom: 15px;
+}
+
+input{
+    height: 45px;
+    width: 100px;
+    background: rgb(130, 83, 241);
+    cursor: pointer;
+    align-items: center;
+    font-weight: bold;
+    border-radius: 15px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    outline: none;
+    border: none;
+    border: 1px solid rgb(255, 255, 255);    
+}
+
+a{
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(137, 34, 255);
+    font-weight: bold;
+
+}
