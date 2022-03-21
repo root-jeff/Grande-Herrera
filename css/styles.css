@@ -15,7 +15,7 @@
 .header{
     height: 100vh;
     /* 02 */
-    background-image: linear-gradient(to top, rgba(132, 250, 175, 0.637) 0%, hsla(200, 82%, 76%, 0.438) 100%), url(img/herrera.jpg);
+    background-image: linear-gradient(to top, rgba(132, 250, 175, 0.637) 0%, hsla(200, 82%, 76%, 0.438) 100%), url(img/herrera1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
