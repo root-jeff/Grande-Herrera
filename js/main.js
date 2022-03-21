@@ -1,5 +1,5 @@
 function sidicequesi(){
-        alert("Sabía que dirías que sí, no tenías otra opción, de todas maneras Te amo <3");
+	alert("Joder gracias por aceptar, recuerda hacer click en <Contactanos>, y seras redireccionado para completar este formulario, gracias. Este proyecto es gracias a Jeff Palma, joder lo amo att. J. Herrrera");    
 }
 
 function quetoquelboton(){
